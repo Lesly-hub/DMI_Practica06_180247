@@ -8,6 +8,7 @@ Aplicación Flutter - Práctica 5
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
+- **Docente:** MTI. Marco Antonio Ramirez Hernandez
 ## Descripción de la práctica
 
 Esta práctica desarrollada durante clase es un ejemplo simple de un botón personalizado en Flutter que cambia su texto cada vez que se presiona. Se hizo uso de un StatefulWidget para mantener un estado interno y una lista de colecciones predefinidas para actualizar el texto del botón. El objetivo principal de esta aplicación es poner en práctica nueeteo conocimiento sobre StateFulWidget. 
